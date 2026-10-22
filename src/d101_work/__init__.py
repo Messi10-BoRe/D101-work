@@ -1,0 +1,5 @@
+"""Package initialization for d101_work."""
+
+from .core import greet
+
+__all__ = ["greet"]
